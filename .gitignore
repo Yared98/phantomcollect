@@ -1,0 +1,17 @@
+# Dados coletados / PII — NUNCA versionar
+victims.db
+logs/
+*.db
+
+# Artefatos Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Ambientes
+.venv/
+venv/
+env/
